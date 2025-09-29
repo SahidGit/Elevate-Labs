@@ -6,8 +6,7 @@ Internship projects showcasing practical skills, problem-solving, and hands-on l
 ## 🚀 Features & Highlights
 
 - Simple **HTML + CSS** demos and prototypes (no frameworks)  
-- Showcases responsiveness, styling, UI components  
-- Visual examples in `images/` to accompany projects  
+- Showcases responsiveness, styling, UI components   
 - Clean, minimal structure ideal for learning and iteration
 
 ---
