@@ -1,8 +1,8 @@
-# Elevate-labs Intership 
-Internship projects showcasing practical skills, problem-solving, and hands-on learning.
-
+# Mocatle
+A Movie Review/Recommendation Platform
+# Inspired from : https://www.moctale.in/
+# ( Credits : Pj Explained ,ComicVerse , bnftv )
 ---
-
 ## 🚀 Features & Highlights
 
 - Simple **HTML + CSS** demos and prototypes (no frameworks)  
